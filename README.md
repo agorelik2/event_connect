@@ -28,9 +28,9 @@ Nada Abulibdeh: front end, schema
 
 ## Description
 
-EConnect is a full-stack web application that uses the Sequelize ORM, a promise-based Node.js ORM for MySQL. It is an event logging platform that utilizes MySQL, Node.js, Express, Handlebars, Passport and the OMDB API. It utilizes the MVC design pattern; using Node and MySQL to query and route data in EConnect application, and Handlebars to generate HTML.
+EConnect is an event logging full stack web application that utilizes Sequelize ORM, Node.js, Express, Handlebars, and Passport for secure user authentication. The application features MVC design pattern.
 
-The main purpose of this application is to connect people together. In the world when people suddenly found themselves separated from their usual circle of friends, relatives and co-workers due to the COVID-19 pandemic, it is especially important to create small events that will enhance your life, spirit, and help you push through the tough experience. The application is to help people invite their friends, relatives, co-workers or neighbours for small events like bike rides, group workouts, walk through the parks or volunteering activities.It could be used to connect with people from your sport club, church or neighborhood.
+The main purpose of EConnect is to connect people together. In the world when people suddenly found themselves separated from their usual circle of friends, relatives and co-workers due to the COVID-19 pandemic, it is especially important to create small events that will enhance your life, spirit, and help you push through the tough experience. The application is to help people invite their friends, relatives, co-workers or neighbours to small events like bike rides, group workouts, walk through the parks or volunteering activities. It could be used to connect members of your sport club, church or neighborhood.
 
 ## Functionality
 
