@@ -1,7 +1,5 @@
 # Project 2
 
-## Title
-
 # EConnect
 
 [Link to the deployed application](https://event-connect-2020.herokuapp.com/)
@@ -57,6 +55,21 @@ Associations: EVENT has many INVITEES, EVENT has many COMMENTS,
 INVITEE belongs to EVENT, COMMENT belongs to EVENT
 
 ## Screen Shots
+
+Sign-up to be able to view and create events
+![Sign-up](public/images/sign-up.png)
+
+Once a member, sign-in with user name and password
+![Sign-in](public/images/sign-in.png)
+
+Once signed-in, user is able to view all the existing events
+![Events](public/images/events.png)
+
+Once signed-in, user is able to create a new event
+![newevent](public/images/newevent.png)
+
+Once signed-in, user is able to click on any event to view details or comment
+![event-details](public/images/event_details.png)
 
 ## Development
 
