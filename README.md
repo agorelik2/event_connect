@@ -1,18 +1,18 @@
-# Project_2
+# Project 2
 
 ## Title
 
-EConnect
+# EConnect
 
-- [Link to the deployed application](https://project2-sa.herokuapp.com/)
+[Link to the deployed application](https://event-connect-2020.herokuapp.com/)
 
 ## Developers
 
-Alina Gorelik: models, back end
-Syed Abedi: front end, schema
-Nada Abulibdeh: front end, schema
+Alina Gorelik: models, front and back end.
+Syed Abedi: front end, schema.
+Nada Abulibdeh: front end, schema.
 
-# Table of Content
+## Table of Content
 
 - [Description](#description)
 - [Functionality](#functionality)
